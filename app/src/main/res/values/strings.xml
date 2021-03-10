@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MedPay</string>
+    <string name="welcome">Welcome</string>
+    <string name="today_s_total">Today\'s Total</string>
+    <string name="yesterday_s_total">Yesterday\'s Total</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="Rs_amount">\u20B9 Amount</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="report">Report</string>
+    <string name="home">Home</string>
+    <string name="status">Status:</string>
+    <string name="phone">Phone</string>
+    <string name="print">Print</string>
+    <string name="e_receipt">E-Receipt</string>
+    <string name="back">Back</string>
+    <string name="tv_continue">Continue</string>
+    <string name="version">App Version : %s(%d)</string>
+
+</resources>

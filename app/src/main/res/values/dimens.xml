@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normaltext">15sp</dimen>
+    <dimen name="layoutmargin">8dp</dimen>
+    <dimen name="text_padding">3dp</dimen>
+    <dimen name="heading18sp">18sp</dimen>
+    <dimen name="margintop15dp">15dp</dimen>
+    <dimen name="text22sp">22sp</dimen>
+    <dimen name="margin12dp">12dp</dimen>
+    <dimen name="textview_mainheading">25sp</dimen>
+    <dimen name="edittext_mainheading">28sp</dimen>
+    <dimen name="iv20dp">20dp</dimen>
+    <dimen name="smalltext12sp">12sp</dimen>
+    <dimen name="margin5dp">5dp</dimen>
+    <dimen name="margin35dp">35dp</dimen>
+    <dimen name="dimen1dp">1dp</dimen>
+    <dimen name="dimen16dp">16dp</dimen>
+    <dimen name="dimen25dp">25dp</dimen>
+</resources>
